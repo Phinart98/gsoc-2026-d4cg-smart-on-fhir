@@ -1,6 +1,6 @@
 # A Multi-Provider SMART on FHIR Backend: My GSoC 2026 Final Report
 
-*Also published at [philipnarteh.me](https://www.philipnarteh.me/blog/gsoc-with-data-for-the-common-good-the-final-report), which is the version submitted to Google Summer of Code.*
+*Mirror of [the original post on philipnarteh.me](https://www.philipnarteh.me/blog/gsoc-with-data-for-the-common-good-the-final-report), which is the URL submitted to Google Summer of Code.*
 
 ---
 
@@ -442,8 +442,6 @@ To Data for the Common Good, for taking on a first-time contributor and pointing
 him at a problem that matters. I really enjoyed working on such an impactful problem. And to the Google Summer of Code administrators, whose guidance on
 on what to do and submit helped me stay on track.
 
-> A copy of this report is mirrored at
-[github.com/Phinart98/gsoc-2026-d4cg-smart-on-fhir](https://github.com/Phinart98/gsoc-2026-d4cg-smart-on-fhir),
-so the link outlives anything that happens to this site. My midterm write-up, which goes deeper on
+> This page is the mirror. The original, and the URL submitted to Google Summer of Code, is [on philipnarteh.me](https://www.philipnarteh.me/blog/gsoc-with-data-for-the-common-good-the-final-report). My midterm write-up, which goes deeper on
 the discovery mechanism and on PKCE, is
 [here](https://www.philipnarteh.me/blog/gsoc-with-data-for-the-common-good-my-experience-so-far) too.
